@@ -1,26 +1,34 @@
-<!-- Waving Header -->
+<!-- HEADER -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sushant%20Mutnale&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<!-- Animated Typing -->
+<!-- TYPING ANIMATION -->
+
 <p align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AI+%7C+ML+Engineer;LLM+Systems+Builder;Distributed+Systems+Developer&center=true&size=28">
+
 </p>
+
+<h3 align="center">🚀 Software Engineering | AI/ML | LLM Systems</h3>
 
 ---
 
 # 👋 About Me
 
-🎓 **B.Tech CSE (2022–2026)** — SGMCOE  
-⚡ Building **AI systems + scalable backend systems**
+🎓 **B.Tech Computer Science (2022-2026)**  
+SGMCOE — Shivaji University  
 
-💡 Interests
+📊 CGPA **8.20**
+
+💡 Interested in
 
 - Software Engineering
 - Artificial Intelligence
 - LLM Systems
 - Distributed Systems
 
-📍 Data Science Intern — IdeaFloats Technologies
+⚡ **Data Science Intern — IdeaFloats Technologies**
 
 ---
 
@@ -55,13 +63,15 @@
 
 ## Data Science Intern — IdeaFloats Technologies
 
-• Built **CNN + YOLO pipeline** for medical detection  
-• Trained on **200K images across 84 classes**
+• Built **CNN + YOLO medical detection pipeline**
+
+• Trained on **200K medical images across 84 classes**
 
 📈 **85%+ detection accuracy**
 
-• Implemented **incremental learning (LwF)**  
-• Built **RAG chatbot with hybrid retrieval**
+• Implemented **incremental learning using Learning without Forgetting**
+
+• Built **RAG chatbot with hybrid retrieval + reranking**
 
 ---
 
@@ -84,7 +94,7 @@ Tech
 - Docker
 - AWS deployment
 
-⚡ Latency
+⚡ Reduced latency
 
 ```
 3.5s → 1.2s
@@ -107,7 +117,7 @@ Tech
 Performance
 
 ```
-98% accuracy
+98% identification accuracy
 200 FPS inference
 ```
 
@@ -117,7 +127,7 @@ Supports **400+ users**
 
 # 🏆 Achievements
 
-🏅 **600+ LeetCode problems**
+🏅 **600+ problems solved on LeetCode**
 
 ⭐ **5-Star CodeChef**
 
@@ -133,19 +143,19 @@ Supports **400+ users**
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sushant-mutnale&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant-mutnale&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 Streak Stats
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sushant-mutnale&theme=tokyonight"/>
 
 </p>
 
@@ -155,7 +165,7 @@ Supports **400+ users**
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sushant-mutnale&theme=tokyo-night"/>
 
 </p>
 
@@ -165,7 +175,7 @@ Supports **400+ users**
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/sushant-mutnale/sushant-mutnale/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -191,18 +201,16 @@ Supports **400+ users**
 
 ---
 
-# 👀 Visitors
+# 👀 Profile Visitors
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=sushant-mutnale&label=Visitors&color=blue&style=flat"/>
 
 </p>
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
-<!-- Footer Wave -->
+<!-- FOOTER -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
