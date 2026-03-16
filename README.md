@@ -1,29 +1,36 @@
-<!-- Animated Typing Header -->
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Sushant+Mutnale;AI+%7C+ML+Engineer+in+Progress;LLM+Systems+Builder;Software+Engineer+%7C+Problem+Solver&center=true&size=30">
-</h1>
+<!-- Waving Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sushant%20Mutnale&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<h3 align="center">🚀 Software Engineering | AI/ML | LLM Systems | Distributed Systems</h3>
+<!-- Animated Typing -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AI+%7C+ML+Engineer;LLM+Systems+Builder;Distributed+Systems+Developer&center=true&size=28">
+</p>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
-🎓 **Computer Science Undergraduate (2026)**  
-SGMCOE, Shivaji University — CGPA **8.20**
+🎓 **B.Tech CSE (2022–2026)** — SGMCOE  
+⚡ Building **AI systems + scalable backend systems**
 
-💡 Interested in
+💡 Interests
 
 - Software Engineering
 - Artificial Intelligence
-- Large Language Model Systems
-- Scalable Distributed Systems
+- LLM Systems
+- Distributed Systems
 
-⚡ Experience
+📍 Data Science Intern — IdeaFloats Technologies
 
-- **Data Science Intern – IdeaFloats Technologies (Bangalore)**
+---
 
-📚 I enjoy building **AI-powered scalable systems that solve real-world problems**
+# 🤖 Coding Animation
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+</p>
 
 ---
 
@@ -46,15 +53,15 @@ SGMCOE, Shivaji University — CGPA **8.20**
 
 # 💼 Experience
 
-### Data Science Intern — IdeaFloats Technologies
+## Data Science Intern — IdeaFloats Technologies
 
-• Built **CNN + YOLO medical detection pipeline**  
-• Trained on **200K medical images across 84 classes**  
-• Achieved **85%+ detection accuracy**
+• Built **CNN + YOLO pipeline** for medical detection  
+• Trained on **200K images across 84 classes**
 
-• Implemented **Learning without Forgetting (LwF)** for incremental learning
+📈 **85%+ detection accuracy**
 
-• Developed **RAG chatbot with hybrid retrieval + reranking**
+• Implemented **incremental learning (LwF)**  
+• Built **RAG chatbot with hybrid retrieval**
 
 ---
 
@@ -62,32 +69,34 @@ SGMCOE, Shivaji University — CGPA **8.20**
 
 ## AlgoTutor AI
 
-Scalable **multi-agent LLM platform** for:
+Multi-agent **LLM platform**
+
+Features
 
 - AI tutoring
 - Mock interviews
-- Recruiter–student matching
+- Recruiter matching
 
-⚡ Tech Highlights
+Tech
 
-- FAISS retrieval
+- FAISS
 - Redis caching
-- Dockerized services
+- Docker
 - AWS deployment
 
-📈 Reduced response latency
+⚡ Latency
 
 ```
 3.5s → 1.2s
 ```
 
-Supports **100+ active users**
+Supports **100+ users**
 
 ---
 
 ## Smart Attendance Platform
 
-Real-time **face recognition attendance system**
+Real-time **face recognition system**
 
 Tech
 
@@ -95,11 +104,11 @@ Tech
 - OpenCV
 - REST APIs
 
-⚡ Performance
+Performance
 
 ```
-98% identification accuracy
-200 FPS real-time inference
+98% accuracy
+200 FPS inference
 ```
 
 Supports **400+ users**
@@ -108,26 +117,15 @@ Supports **400+ users**
 
 # 🏆 Achievements
 
-🏅 Solved **600+ problems on LeetCode**
+🏅 **600+ LeetCode problems**
 
-⭐ **5 Star CodeChef**
+⭐ **5-Star CodeChef**
 
-🔥 **Expert rank on Codeforces**
+🔥 **Expert Codeforces**
 
 🏆 **2x Hackathon Winner**
 
-👨‍💼 Served as **Head of Training & Placement Office**
-
----
-
-# 📜 Certifications
-
-• AI Agents — Hugging Face  
-• MLOps — Google Cloud  
-• RAG Agents with LLMs — NVIDIA  
-• AI Powered Software Design — Coursera  
-• Introduction to CUDA — NVIDIA  
-• C Programming — NPTEL
+👨‍💼 **Head of Training & Placement Office**
 
 ---
 
@@ -143,7 +141,7 @@ Supports **400+ users**
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Streak Stats
 
 <p align="center">
 
@@ -158,6 +156,16 @@ Supports **400+ users**
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -183,14 +191,18 @@ Supports **400+ users**
 
 ---
 
-# 👀 Profile Visitors
+# 👀 Visitors
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=blue&style=flat"/>
 
 </p>
 
 ---
 
 ⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+
+<!-- Footer Wave -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
