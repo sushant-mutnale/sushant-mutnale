@@ -12,10 +12,10 @@
 
 <h3 align="center">🚀 Software Engineering | AI/ML | LLM Systems</h3>
 
-# 📈 Contribution Graph
+# 📈 Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2c5364/sushant-mutnale" />
+  <img src="https://ghchart.rshah.org/40c463/sushant-mutnale" />
 </p>
 
 ---
