@@ -15,9 +15,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sushant-mutnale&theme=tokyo-night"/>
-
+  <img src="https://ghchart.rshah.org/2c5364/sushant-mutnale" />
 </p>
 
 ---
